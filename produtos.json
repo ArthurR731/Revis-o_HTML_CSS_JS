@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "nome": "Cyberpunk 2077",
+    "preco": 199.90,
+    "categoria": "RPG",
+    "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "estoque": 20,
+    "descricao": "Jogo de mundo aberto futurista cheio de ação."
+  },
+
+  {
+    "id": 2,
+    "nome": "Minecraft",
+    "preco": 99.90,
+    "categoria": "Aventura",
+    "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/header.jpg",
+    "estoque": 50,
+    "descricao": "Construa, explore e sobreviva em um mundo infinito."
+  },
+
+  {
+    "id": 3,
+    "nome": "Elden Ring",
+    "preco": 249.90,
+    "categoria": "Ação",
+    "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "estoque": 15,
+    "descricao": "Uma aventura épica em um mundo cheio de desafios."
+  },
+
+  {
+  "id": 4,
+  "nome": "God of War Ragnarök",
+  "preco": 299.90,
+  "categoria": "PlayStation",
+  "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/header.jpg",
+  "estoque": 10,
+  "descricao": "Kratos enfrenta novos inimigos na mitologia nórdica."
+}
+]

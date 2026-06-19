@@ -1,0 +1,87 @@
+body {
+
+    background:#111827;
+
+    font-family: Arial, sans-serif;
+
+}
+
+
+
+
+header {
+
+    background:#020617;
+
+}
+
+
+
+
+
+.card-produto {
+
+
+    background:#1f2937;
+
+    color:white;
+
+    padding:15px;
+
+    border-radius:20px;
+
+    transition:0.3s;
+
+
+}
+
+
+
+
+
+.card-produto:hover {
+
+
+    transform:translateY(-8px);
+
+
+}
+
+
+
+
+.btn-comprar {
+
+
+    background:#9333ea;
+
+    color:white;
+
+    padding:10px;
+
+    border-radius:20px;
+
+    width:100%;
+
+}
+
+
+
+.btn-comprar:hover {
+
+
+    background:#7e22ce;
+
+
+}
+
+
+
+
+input {
+
+
+    background:white;
+
+
+}
